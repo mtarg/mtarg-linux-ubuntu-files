@@ -52,7 +52,7 @@ To modify your server settings, navigate to the `mods/deathmatch/` directory:
 
 * **Optimized x64 Binaries:** Pre-configured 64-bit Linux support with custom shared libraries.
 * **Auto Permission Handler:** Executable permissions (`chmod +x`) are automatically set for `mta-server64` and `x64/` modules during setup and startup.
-* **Launcher Ready:** Compatible with custom MTA client launcher backends out of the box.
+* **Launcher Ready:** Compatible with custom client launcher backends out of the box.
 
 ---
 
