@@ -1,4 +1,4 @@
-# 🚀 CoreMTARG - Custom MTA:SA Server Package
+# 🚀 CoreMTARG - Custom MTARG:SA Server Package
 
 CoreMTARG is a custom Multi Theft Auto RG: San Andreas (MTARG:SA) server build pre-configured with custom x64 binaries, custom resources, and dedicated launcher backend support.
 
