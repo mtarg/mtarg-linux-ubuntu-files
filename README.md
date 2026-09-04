@@ -1,6 +1,6 @@
 # 🚀 CoreMTARG - Custom MTA:SA Server Package
 
-CoreMTARG is a custom Multi Theft Auto: San Andreas (MTA:SA) server build pre-configured with custom x64 binaries, custom resources, and dedicated launcher backend support.
+CoreMTARG is a custom Multi Theft Auto: San Andreas (MTARG:SA) server build pre-configured with custom x64 binaries, custom resources, and dedicated launcher backend support.
 
 This repository contains the full server deployment package and a custom **Pterodactyl Egg** for automated setup and deployment.
 
